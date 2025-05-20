@@ -24,7 +24,7 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: https://weif5.github.io/cv/
+    url: "https://weif5.github.io/cv/"
     
   #- title: "CV"
   #  url: /cv-json/
