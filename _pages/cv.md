@@ -19,15 +19,15 @@ Education
 
 Work experience
 ======
-* China Zheshang Bank Co., Ltd. — *Intern, Technological Operations (Aug 2024 – Sep 2024 · Hefei, China)
+* China Zheshang Bank Co., Ltd. — *Intern, Technological Operations* (Aug 2024 – Sep 2024 · Hefei, China)
   * Developed testing systems for product issuance and conducted QA analysis.  
   * Visualized test progress and performed DevOps quality scanning.
 
-* iFLYTEK Co., Ltd. — *Intern, Data Analyst (Jun 2024 – Jul 2024 · Hefei, China)
+* iFLYTEK Co., Ltd. — *Intern, Data Analyst* (Jun 2024 – Jul 2024 · Hefei, China)
   * Built traffic data indicators and analyzed operational performance.  
   * Proposed data-driven business decisions.
 
-* Hua’an Securities Co., Ltd. — *Intern, Asset Management (Jun 2023 – Sep 2023 · Hefei, China)
+* Hua’an Securities Co., Ltd. — *Intern, Asset Management* (Jun 2023 – Sep 2023 · Hefei, China)
   * Analyzed convertible bonds in R and advised on quarterly product reports.
   * Performed ratio analysis and portfolio allocation suggestions.
 
