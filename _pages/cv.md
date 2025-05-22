@@ -14,7 +14,9 @@ Education
 - **B.S. in Economics**, **B.A. in Mathematics**, Minor in Data Science, University of Washington *(Sep 2021 – Jun 2025)*  
   - GPA: 3.51 / 4.0 (Dean’s List for five semesters)  
   - Relevant Courses: Advanced Microeconomics, Econometrics, Real Analysis, Multivariable Calculus, Probability, Programming in R/Python
+  
 ---
+
 Work experience
 ======
 ### China Zheshang Bank Co., Ltd. — *Intern, Technological Operations*  
@@ -31,7 +33,9 @@ Work experience
 **Jun 2023 – Sep 2023 · Hefei, China**  
 - Analyzed convertible bonds in R and advised on quarterly product reports.  
 - Performed ratio analysis and portfolio allocation suggestions.
+
 ---
+
 
 Skills
 ======
@@ -40,11 +44,13 @@ Skills
 - Languages: English (fluent), Mandarin (native)
 ---
 
+
 Publications
 ======
 - *ARMA Model-based Forecasts of Economic Development*, Foreign Investment in China, 2012  
 - *The Application of the CAPM Capital Asset Pricing Model*, China Market, 2012
 ---
+
 
 Project Experience
 ======
