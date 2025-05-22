@@ -27,7 +27,7 @@ Welcome to my personal space! Here's a visual peek into some of my hobbies and t
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-around;">
   <img src="/images/2222.png" alt="photo1" width="250"/>
   <img src="/images/3333.png" alt="photo2" width="250"/>
-  <img src="/images/4444.png" alt="photo3" width="450"/>
+  <img src="/images/4444.png" alt="photo3" width="440"/>
 </div>
 
 > *(Click the menu above for my resume, projects, or blog posts!)*
