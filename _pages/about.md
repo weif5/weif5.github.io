@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Wei Fang | Life & Lens"
+title: "🔥 Wei Fang | Life & Lens 🔥"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# 👋 Hello, I'm Wei Fang
+# 🔥 Hello, I'm Wei Fang 🔥
 
 Welcome to my personal space! Here's a visual peek into some of my hobbies and things I love.
 
