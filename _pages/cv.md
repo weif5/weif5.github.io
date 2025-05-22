@@ -45,7 +45,7 @@ Skills
 Publications
 ======
 * ARMA Model-based Forecasts of Economic Development*, Foreign Investment in China, 2012  
-* The Application of the CAPM Capital Asset Pricing Model*, China Market, 2012
+* The Application of the CAPM Capital Asset Pricing Model, China Market, 2012
 ---
 
 
