@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Wei Fang(William)"
   pronouns         : "He/His"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Master's student in Applied Mathematics at Columbia University."
   location         : "Seattle.WA"
-  employer         : "Red Brick University"
+  employer         : "Columbia University"
   uri              : # URL
   email            : "weif5@uw.edu" 
 
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "威-方-900598294" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
