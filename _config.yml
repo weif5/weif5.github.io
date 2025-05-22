@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "1111.png"
-  name             : "Wei Fang(William)"
+  name             : "Wei Fang (William)"
   pronouns         : "He/His"  
-  bio              : "Master's student in Applied Mathematics at Columbia University."
+  bio              : "Master in Applied Mathematics at Columbia University (SEAS)."
   location         : "Seattle.WA"
   employer         : "Columbia University"
   uri              : # URL
