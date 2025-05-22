@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: " Wei Fang | Life & Lens "
+title: "Life & Lens 🖼️🌻"
 author_profile: true
 redirect_from: 
   - /about/
