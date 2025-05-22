@@ -19,29 +19,26 @@ Education
 
 Work experience
 ======
-### China Zheshang Bank Co., Ltd. — *Intern, Technological Operations*  
-**Aug 2024 – Sep 2024 · Hefei, China**  
-- Developed testing systems for product issuance and conducted QA analysis.  
-- Visualized test progress and performed DevOps quality scanning.
+* China Zheshang Bank Co., Ltd. — *Intern, Technological Operations (Aug 2024 – Sep 2024 · Hefei, China)
+  * Developed testing systems for product issuance and conducted QA analysis.  
+  * Visualized test progress and performed DevOps quality scanning.
 
-### iFLYTEK Co., Ltd. — *Intern, Data Analyst*  
-**Jun 2024 – Jul 2024 · Hefei, China**  
-- Built traffic data indicators and analyzed operational performance.  
-- Proposed data-driven business decisions.
+* iFLYTEK Co., Ltd. — *Intern, Data Analyst (Jun 2024 – Jul 2024 · Hefei, China)
+  * Built traffic data indicators and analyzed operational performance.  
+  * Proposed data-driven business decisions.
 
-### Hua’an Securities Co., Ltd. — *Intern, Asset Management*  
-**Jun 2023 – Sep 2023 · Hefei, China**  
-- Analyzed convertible bonds in R and advised on quarterly product reports.  
-- Performed ratio analysis and portfolio allocation suggestions.
+* Hua’an Securities Co., Ltd. — *Intern, Asset Management (Jun 2023 – Sep 2023 · Hefei, China)
+  * Analyzed convertible bonds in R and advised on quarterly product reports.
+  * Performed ratio analysis and portfolio allocation suggestions.
 
 ---
 
 
 Skills
 ======
-- Programming: **R, Python, MATLAB**  
-- Other: Excel, LaTeX, Microsoft Office  
-- Languages: English (fluent), Mandarin (native)
+* Programming: **R, Python, MATLAB**  
+* Other: Excel, LaTeX, Microsoft Office  
+* Languages: English (fluent), Mandarin (native)
 ---
 
 
@@ -64,4 +61,21 @@ Co-curricular Involvement
 ======
 - **UW Automobile Association** — Led trip planning and community donation events
 
+---
+
+Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Service and leadership
+======
+* Currently signed in to 43 different slack teams
 ---
