@@ -31,17 +31,20 @@ Work experience
 **Jun 2023 – Sep 2023 · Hefei, China**  
 - Analyzed convertible bonds in R and advised on quarterly product reports.  
 - Performed ratio analysis and portfolio allocation suggestions.
-  
+---
+
 Skills
 ======
 - Programming: **R, Python, MATLAB**  
 - Other: Excel, LaTeX, Microsoft Office  
 - Languages: English (fluent), Mandarin (native)
+---
 
 Publications
 ======
 - *ARMA Model-based Forecasts of Economic Development*, Foreign Investment in China, 2012  
 - *The Application of the CAPM Capital Asset Pricing Model*, China Market, 2012
+---
 
 Project Experience
 ======
@@ -56,19 +59,3 @@ Co-curricular Involvement
 - **UW Automobile Association** — Led trip planning and community donation events
 
 ---
-
-#Talks
-#======
-#  <ul>{% for post in site.talks reversed %}
-#    {% include archive-single-talk-cv.html  %}
-#  {% endfor %}</ul>
-  
-#Teaching
-#======
-#  <ul>{% for post in site.teaching reversed %}
-#   {% include archive-single-cv.html %}
-# {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
